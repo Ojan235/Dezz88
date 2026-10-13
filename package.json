@@ -1,11 +1,12 @@
 {
-  "name": "license-server",
+  "name": "ojan-license-system",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "telegraf": "^4.16.3",
     "express": "^4.19.2",
     "cors": "^2.8.5"
   }
